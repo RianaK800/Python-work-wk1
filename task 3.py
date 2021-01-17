@@ -1,0 +1,10 @@
+user_input = input("what is your name?")
+print("Well," + user_input +"!")
+dish = input("What is your favourite main dish.?")
+print("output ," + dish)
+desert = input("What is your favourite desert.")
+print("Excellent choice" + desert +"!")
+drink = input("What is your favourite drink.?")
+print("output ," + drink)
+print("Your favourite meal is: " + dish + " desert " + desert + " drink is" + drink)
+
