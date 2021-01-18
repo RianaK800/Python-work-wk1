@@ -1,3 +1,6 @@
+# Import math Library
+import math
+
 #Accept 2 numbers via the user inout
 numberOne=int(input("Enter a First Number:"))
 numberTwo=int(input("Enter a Second Number Two:"))
@@ -22,7 +25,7 @@ elif(operator=="c"):
 elif(operator=="d"):
     print("multiplication is " + str(numberOne * numberTwo))
 elif(operator=="e"):
-    print("power of is " + str(math.power(numberOne, numberTwo)))
+    print("power of is " + str(math.pow(numberOne, numberTwo)))
 else:
     print("you didnt choose an option")
 
