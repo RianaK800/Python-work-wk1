@@ -1,0 +1,11 @@
+---
+title: "Graph of Matrix 1-15"
+author: "Riana"
+date: "14/03/2021"
+output: html_document
+---
+
+
+x=c(1:15)
+hist(x, main="Plot of matrix 1 to 15", col="red")
+
