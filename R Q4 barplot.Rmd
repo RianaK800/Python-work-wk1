@@ -1,0 +1,12 @@
+---
+title: "Role and the Length of Service"
+author: "Riana"
+date: "21/03/2021"
+output: html_document
+---
+
+
+x=c(8,10,15,2,3)
+hist(x,main="Role and Length of service",xlab="Role",ylab="Years of Service",col="Red")
+
+
